@@ -1,6 +1,9 @@
-#My Linux Scripts 
-This resporitory conatains Linux scripts I built while learnig linux for clound computing.
+# My Linux Scripts 
+This resporitory conatains Linux scripts I built while learnig linux for cloud computing.
 
-#Author
+# Scripts
+ - practice.sh -basic shell scripting practice
+
+## Author
 Aditya Paswan
 Sydney, Australia
